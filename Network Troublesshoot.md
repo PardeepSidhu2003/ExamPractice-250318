@@ -10,3 +10,12 @@
 8. What happened after you did this step?
 9. Have you tried [solution]?
 10. Alright. Is there anything more you want to tell me about the issue?
+
+[Link 1](https://support.google.com/fi/answer/6183600?hl=en)
+ This link is more understandable to solve the problem because each and every part describe in details.
+ 
+[Link 2](https://www.youtube.com/watch?v=2qGdYI5Flyk)
+ In this link connection problem is troubleshoot with the use of video so this is more clerified process to catch the exact problem.
+
+[Link 3](https://www.techtarget.com/searchnetworking/tip/Wireless-network-troubleshooting-Connectivity)
+ In this article, explained the steps with the help of images.
