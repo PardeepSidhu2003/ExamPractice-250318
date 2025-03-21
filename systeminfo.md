@@ -3,20 +3,18 @@ Microsoft Windows [Version 10.0.26100.3476]
 
 C:\Users\IT25janPS>systeminfo
 
- Host Name:                     D208-PC012 
-
- 
- OS Name:                       Microsoft Windows 11 Pro
- OS Version:                    10.0.26100 N/A Build 26100
- OS Manufacturer:               Microsoft Corporation
- OS Configuration:              Member Workstation
- OS Build Type:                 Multiprocessor Free
-  Registered Owner:              Windows user
+ Host Name:                     D208-PC012  
+ OS Name:                       Microsoft Windows 11 Pro  
+ OS Version:                    10.0.26100 N/A Build 26100 
+ OS Manufacturer:               Microsoft Corporation   
+ OS Configuration:              Member Workstation  
+ OS Build Type:                 Multiprocessor Free  
+ Registered Owner:              Windows user  
  Registered Organization:       PEC
-  Product ID:                    00331-10000-00001-AA668
-  Original Install Date:         11/16/2024, 3:52:27 AM
-  System Boot Time:              3/12/2025, 8:58:08 AM
-  System Manufacturer:           Dell Inc.
+ Product ID:                    00331-10000-00001-AA668
+ Original Install Date:         11/16/2024, 3:52:27 AM
+ System Boot Time:              3/12/2025, 8:58:08 AM
+ System Manufacturer:           Dell Inc.
 System Model:                  OptiPlex SFF Plus 7010
 System Type:                   x64-based PC
 Processor(s):                  1 Processor(s) Installed.
