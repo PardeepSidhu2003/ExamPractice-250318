@@ -2,9 +2,8 @@ Microsoft Windows [Version 10.0.26100.3476]
 (c) Microsoft Corporation. All rights reserved.
 
 C:\Users\IT25janPS>systeminfo
-
- Host Name:                     D208-PC012
- OS Name:                       Microsoft Windows 11 Pro
+Host Name:                     D208-PC012
+OS Name:                       Microsoft Windows 11 Pro
 OS Version:                    10.0.26100 N/A Build 26100
 OS Manufacturer:               Microsoft Corporation
 OS Configuration:              Member Workstation
