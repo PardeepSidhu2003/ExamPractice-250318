@@ -4,6 +4,7 @@ Microsoft Windows [Version 10.0.26100.3476]
 C:\Users\IT25janPS>systeminfo
 
 Host Name:                     D208-PC012
+
 OS Name:                       Microsoft Windows 11 Pro
 OS Version:                    10.0.26100 N/A Build 26100
 OS Manufacturer:               Microsoft Corporation
@@ -53,7 +54,7 @@ Network Card(s):               2 NIC(s) Installed.
                                      IP address(es)
                                      [01]: 192.168.208.124
                                      [02]: fe80::3a41:cd77:4b38:23f6
-Virtualization-based security: Status: Running
+ Virtualization-based security: Status: Running
                                Required Security Properties:
                                Available Security Properties:
                                      Base Virtualization Support
@@ -68,6 +69,6 @@ Virtualization-based security: Status: Running
                                App Control for Business policy: Enforced
                                App Control for Business user mode policy: Off
                                Security Features Enabled:
-Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+ Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
 
-C:\Users\IT25janPS>
+C:\Users\IT25janPS>  n
