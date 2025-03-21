@@ -19,6 +19,11 @@
 
 [Link 3](https://www.techtarget.com/searchnetworking/tip/Wireless-network-troubleshooting-Connectivity)
  In this article, explained the steps with the help of images.
+ 
+##  Troubleshooting Info to the Access Point or WIFI Router
 
  [Link 1](https://www.networkdatapedia.com/post/acess-point-troubleshooting)
- [Link 2](
+  In this Link with the use of video Troubleshooting info to the Access point or wifi router test solution clerified in easy process.
+
+ [Link 2](https://thewifispecialist.co.uk/blog/access-point-issues)
+  This article tells us Cause of Common Acess Point Issues.
