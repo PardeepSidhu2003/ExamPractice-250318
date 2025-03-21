@@ -18,7 +18,7 @@ You'll need a tool like Rufus to create a bootable USB drive. Here are the steps
 8. Once finished, your USB drive will be bootable.
 
 # Booting from USB:
-1.Insert the USB drive into the target computer.
+1. Insert the USB drive into the target computer.
 2. Boot the computer and enter the BIOS/UEFI settings (usually by pressing F2, F12 during boot).
 3. Change the boot order to prioritize the USB drive.
 4. Save changes and exit. Your computer should boot from the USB drive.
